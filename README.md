@@ -18,9 +18,17 @@ As a Google Summer of Code 2022 mentee, I worked on the [TUF project](https://gi
 - Adding tests to check the functionality of getting specification versions supported by the repository
 - Working on the special cases
 
+## Current State
+
+The current state of the project allows the client to choose and select the highest supported version between both the repository and the client. It also allows in choosing the versions supported by the repository. This introduces backwards compatibility. Tests to check the the functionality are also provided.
+
 ## TAP 14 draft pr
 
 https://github.com/theupdateframework/python-tuf/pull/2049 
 
+## Challenges and Learnings
+
+I had to learn on the go. This meant learning about the different python libraries and implementing them as I learnt about them. This helped me in broadening my python knowledge. I also got to know and apply what I learnt about Git&Github. I came to appreciate how great a tool Git is in source code management.
+
 ## Summary
-Had a lot of fun working on implementing changes and learning a lot in the process. 👍
+Had a lot of fun working on implementing changes and learning a lot in the process. Also loved working with and learning from great mentors who had a lot of knowledge to impart. 👍
