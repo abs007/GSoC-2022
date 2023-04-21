@@ -24,7 +24,8 @@ The current state of the project allows the client to choose and select the high
 
 ## TAP 14 draft pr
 
-https://github.com/theupdateframework/python-tuf/pull/2049 
+https://github.com/theupdateframework/python-tuf/pull/2049.
+This pr has been superseded by: https://github.com/theupdateframework/python-tuf/pull/2114
 
 ## Challenges and Learnings
 
