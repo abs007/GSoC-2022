@@ -1,4 +1,7 @@
 # Google Summer of Code 2022
+## Certificate
+
+[Here](https://drive.google.com/file/d/1IqudXWzYB_Ms4tGxQgE1oQrU_fVXuhVr/view) is the link to the certificate
 
 ## Organization: CNCF (TUF Project)
 
@@ -33,6 +36,3 @@ I had to learn on the go. This meant learning about the different python librari
 
 ## Summary
 Had a lot of fun working on implementing changes and learning a lot in the process. Also loved working with and learning from great mentors who had a lot of knowledge to impart. 👍
-
-## Certificate
-[Here](https://drive.google.com/file/d/1IqudXWzYB_Ms4tGxQgE1oQrU_fVXuhVr/view) is the link to the certificate
